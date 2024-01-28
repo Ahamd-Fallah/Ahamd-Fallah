@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Ahamd-Fallah
+- 👋 Hi, I’m Ahmad
 - 👀 I’m interested in Js & C# & C++ (cs2 more 🫡)
 - 🌱 I’m currently learning Nothing, LOL 
 - 💞️ I’m looking to collaborate on anyone
