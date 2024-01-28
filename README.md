@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Ahamd-Fallah
-- 👀 I’m interested in *** Js & C# & C++ ***
-- 🌱 I’m currently learning Nothing,  LOL 
+- 👀 I’m interested in Js & C# & C++ (cs2 more 🫡)
+- 🌱 I’m currently learning Nothing, LOL 
 - 💞️ I’m looking to collaborate on anyone
 - 📫 How to reach me 
 - 😄 Pronouns: Ahhhhhhhhhh
