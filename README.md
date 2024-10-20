@@ -1,7 +1,7 @@
 # 💫 About Me:
 👋 Hi, I’m Ahmad<br>🔭 I’m currently working on My secret Weapon🤫<br>🤝 I’m looking for help with anyone<br>🌱 I’m currently learning Js mabye C# again<br>💬 Ask me about anything 🤞<br>⚡ Fun fact: Nothing is funny Except lot of things<br>
 
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31lfmglv7hddva26rluw5betam7y&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31lfmglv7hddva26rluw5betam7y&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=true)](https://spotify-github-profile.kittinanx.com/api/view?uid=31lfmglv7hddva26rluw5betam7y&redirect=true)
 
 ## 🌐 Socials:
 [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@SmileyFace1371) 
