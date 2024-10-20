@@ -12,4 +12,6 @@
 ------
 [![](https://visitcount.itsvg.in/api?id=Ahamd-Fallah&icon=10&color=10)](https://visitcount.itsvg.in)
 
+  ![Snake animation](https://github.com/eagrundy/eagrundy/blob/output/github-contribution-grid-snake.svg)
+
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
