@@ -1,6 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m Ahmad<br>🔭 I’m currently working on My secret Weapon🤫<br>🤝 I’m looking for help with anyone<br>🌱 I’m currently learning Js mabye C# again<br>💬 Ask me about anything 🤞<br>⚡ Fun fact: Nothing is funny Except lot of things<br>
-
+👋 Hi, I’m Ahmad<br>🔭 I’m currently working on My secret Weapon🤫<br>
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31lfmglv7hddva26rluw5betam7y&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=31lfmglv7hddva26rluw5betam7y&redirect=true)
 
 # 💻 Tech Stack:
